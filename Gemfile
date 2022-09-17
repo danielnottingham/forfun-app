@@ -75,6 +75,7 @@ group :test do
   gem "shoulda-matchers", "5.1.0"
 end
 
+gem "rack-mini-profiler", "3.0.0"
 gem "rubocop", "1.36.0"
 gem "rubocop-performance", "1.15.0"
 gem "rubocop-rails", "2.16.1"
